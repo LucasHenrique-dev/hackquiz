@@ -1,0 +1,107 @@
+{
+    "bg": "https://i.imgur.com/CxcOAi8.jpg",
+    "title": "Quiz CSS da Alura",
+    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/lA910p5smHdza/giphy.gif",
+        "title": "Qual das alternativas se encaixa melhor na definição do Bungee Gum, dada pelo Hisoka?",
+        "answer": 1,
+        "alternatives": [
+          "O Bungee Gum possui as propriedades de chiclete e borracha",
+          "O Bungee Gum possui as propriedades de goma e borracha",
+          "Com essa habilidade ninguém pode fugir de meu controle",
+          "Com o Bungee Gum tenho o controle total dos movimentos do meu oponente",
+          "Nunca foi explicada pelo próprio, pois para isso o oponente teria que derrota-lo em batalha"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/etW2P2cvB0PYY/giphy.gif",
+        "title": "Em que dedo Kurapika usa a sua corrente do julgamento?",
+        "answer": 4,
+        "alternatives": [
+           "Polegar",
+           "Indicador",
+           "Dedo médio",
+           "Anelar",
+           "Mindinho"
+        ]
+      },
+      {
+        "image": "https://pa1.narvii.com/6820/5b131537cc631b62c3d178fcd6f75058d95b9d71_hq.gif",
+        "title": "Qual o objetivo de Leorio em se tornar um Hunter?",
+        "answer": 2,
+        "alternatives": [
+           "Encontrar o seu pai",
+           "Duelar contra oponentes fortes",
+           "Ser tornar um médico",
+           "Vingar a morte do seu clã",
+           "Ter amigos"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/eDfC2D5n1670A/giphy.gif",
+        "title": "De onde o Gon vem?",
+        "answer": 0,
+        "alternatives": [
+           "Ilha da Baleia",
+           "Continente sombrio",
+           "cidade meteoro",
+           "Yorknew City",
+           "Greed Island"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/u4dQ8BMugUYp2/giphy.gif",
+        "title": "Que situação permitiu o Gon acessar seu potencial máximo?",
+        "answer": 2,
+        "alternatives": [
+           "Quando ele foi ter a revanche contra Hisoka",
+           "Lutando contra os membros do Genei Ryodan",
+           "Após saber que seu amigo Kite não poderia ser restaurado",
+           "Nos treinamentos intensivos de Greed Island",
+           "Lutando contra Meruem"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/qDO6QPt4VczVS/giphy.gif",
+        "title": "Qual o tipo de Nen do Killua e como descobrir através do teste do copo?",
+        "answer": 3,
+        "alternatives": [
+           "Reforço. Quando o volume de água aumenta",
+           "Especialista. Quando a folha afunda no copo",
+           "Emissão. Quando o copo explode",
+           "Transformação. Ocorre quando o gosto da água muda",
+           "Materialização. Quando a folha começa a se mover"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/UVEIt6lFo2Svm/giphy.gif",
+        "title": "Quantos membros possui a Genei Ryodan?",
+        "answer": 3,
+        "alternatives": [
+           "10",
+           "11",
+           "12",
+           "13",
+           "15"
+        ]
+      }
+    ],
+    "external": [
+      "https://quiz-react.brenoha.vercel.app",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#C4182E",
+        "secondary": "#CF5ADC",
+        "mainBg": "#2C2A2D",
+        "contrastText": "#E1DFE0",
+        "wrong": "#DA5E2A",
+        "success": "#427E40",
+        "gitHub": "#161B22"
+      },
+      "borderRadius": "4px"
+    }
+  }
